@@ -3,12 +3,12 @@
 permalink: /:categories/:year/:month/:day/:title 
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
-highlighter: pygments
+highlighter: rouge
 
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Matusevich's Corner'
+title : Matusevich's Corner
 tagline: Where complains go to die
 author :
   name : Javier Matusevich Pose
